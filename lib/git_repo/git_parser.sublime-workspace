@@ -1,0 +1,260 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jeff/mygit/workspace/ruby_js_base/lib/js_base/swizzler.rb",
+		"/Users/jeff/mygit/workspace/ruby_js_base/lib/js_base.rb",
+		"/Users/jeff/mygit/workspace/ruby_lenc/lib/lenc/encr.rb",
+		"/Users/jeff/mygit/workspace/ruby_cmd_line_tools/bin/makegem",
+		"/Users/jeff/mygit/workspace/ruby_js_base/lib/js_base/io_recorder.rb",
+		"/Users/jeff/mygit/workspace/ruby_js_base/test/test_io_recorder.rb",
+		"/Users/jeff/mygit/workspace/ruby_misc/makeit.rb",
+		"/Users/jeff/mygit/workspace/_SKIP_ruby_experiments/exp.rb",
+		"/Users/jeff/mygit/workspace/ruby_js_base/test/test_base.rb",
+		"/Users/jeff/mygit/workspace/ruby_js_base/lib/base/pretty.rb",
+		"/Users/jeff/mygit/workspace/ruby_js_base/lib/base.rb",
+		"/Users/jeff/mygit/workspace/ruby_base/base.gemspec",
+		"/Users/jeff/mygit/workspace/ruby_base/ruby_base.gemspec",
+		"/Users/jeff/mygit/workspace/cmd_line_tools/bin/grp",
+		"/Users/jeff/mygit/workspace/cmd_line_tools/spec.gemspec",
+		"/Users/jeff/mygit/workspace/ruby_base/spec.gemspec",
+		"/Users/jeff/mygit/workspace/ruby_tokn/tokn.gemspec",
+		"/Users/jeff/mygit/workspace/ruby_base/lib/ruby_base.rb",
+		"/Users/jeff/mygit/workspace/cmd_line_tools/test/test_grp.rb",
+		"/Users/jeff/mygit/workspace/ruby_base/lib/ruby_base/ruby_base.rb",
+		"/Users/jeff/mygit/backed_up_files/prepare_home_dir.sh"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+			"*.rb",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dbtrim",
+			"proc_file",
+			"_Base",
+			"textedit",
+			"base_dir",
+			"cmds_start",
+			"textedit",
+			"master",
+			"pr(\"",
+			"show_diff",
+			"split_int",
+			"trim_file",
+			"show_diff",
+			"!@ignor",
+			"output",
+			"rem_old_versions",
+			"determine_project_name",
+			"quit_flag",
+			"assert_raise",
+			"lines_chomp",
+			"warndb",
+			"context_block",
+			"hash",
+			"PREFIX",
+			"compare",
+			"temp",
+			"tempfile",
+			"require_rel",
+			"@context_block",
+			"illegalsta",
+			"calc_diff",
+			"calc_dif",
+			"scall",
+			"read_text_file",
+			"educa",
+			"educating",
+			"wrikte",
+			"write_te",
+			"compare_reference_and_snapshot",
+			"console_file",
+			"stdout",
+			"educate",
+			"call",
+			"call grep",
+			"Example",
+			"example",
+			"educate"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "git_parser.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"gemspe",
+				"~/mygit/workspace/ruby_base/ruby_base.gemspec"
+			],
+			[
+				"test_ru",
+				"ruby_base/test/test_ruby_base.rb"
+			],
+			[
+				"testing_ut",
+				"testing_util/lib/testing_util.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/mygit/workspace/ruby_merge_pal/merge_pal.sublime-project"
+			],
+			[
+				"js",
+				"~/mygit/workspace/ruby_js_base/js_base.sublime-project"
+			],
+			[
+				"js_ba",
+				"~/mygit/workspace/ruby_js_base/js_base.sublime-project"
+			],
+			[
+				"cmd",
+				"~/mygit/workspace/ruby_cmd_line_tools/project.sublime-workspace"
+			],
+			[
+				"cmd_line",
+				"~/mygit/workspace/ruby_cmd_line_tools/project.sublime-workspace"
+			],
+			[
+				"cmd_lin",
+				"~/mygit/workspace/cmd_line_tools/project.sublime-workspace"
+			],
+			[
+				"mergepa",
+				"~/mygit/workspace/ruby_merge_pal/merge_pal.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
