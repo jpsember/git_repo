@@ -2,8 +2,8 @@ require 'rake'
 
 Gem::Specification.new do |s|
   s.name        = 'git_repo'
-  s.version     = '0.0.0'
-  s.date        = '2013-12-04'
+  s.version     = '0.1.0'
+  s.date        = '2015-03-29'
   s.summary     = "Reads git repos"
   s.description = "More to come"
   s.authors     = ["Jeff Sember"]

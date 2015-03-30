@@ -38,9 +38,13 @@ class GitRepo
   def initialize
     @past_commit_names = nil
     @basedir = find_repo(Dir.pwd)
-    x,_ = scall("git symbolic-ref -q HEAD")
-    x.chomp!
-    @branch = File.basename(x)
+
+    # We may be in detached head mode
+    x,problem = scall("git symbolic-ref -q HEAD",false)
+    if !problem
+      x.chomp!
+      @branch = File.basename(x)
+    end
     build_status
   end
 
